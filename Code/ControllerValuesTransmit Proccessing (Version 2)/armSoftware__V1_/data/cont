@@ -1,0 +1,8 @@
+n
+leftStickVert	n	3	SLIDER	Y Axis	0	1.0	0.0
+rightStickVert	n	3	SLIDER	Z Rotation	0	1.0	0.0
+r1	n	1	BUTTON	Button 5	0	0.0	0.0
+l1	n	1	BUTTON	Button 4	0	0.0	0.0
+r2	n	3	SLIDER	Y Rotation	0	1.0	0.0
+circle	n	1	BUTTON	Button 2	0	0.0	0.0
+square	n	1	BUTTON	Button 0	0	0.0	0.0
